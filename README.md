@@ -9,7 +9,7 @@
 * clock.css,block.css ,alarm.css are take care of postion of diffrent blocks.
 # How does it work?
 1. First, you have to load it.
-2. After loading this chrome Extention, it looks like.
+2. After loading this chrome Extention.
 
 3. Now you need to click on the icon of the chrome extension then it will generate a popup
 
