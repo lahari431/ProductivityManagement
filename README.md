@@ -10,11 +10,8 @@
 # How does it work?
 1. First, you have to load it.
 2. After loading this chrome Extention, it looks like.
-![image](https://user-images.githubusercontent.com/84044819/161394298-40c70ec0-435a-407e-908a-1352a9bf1ca7.png)
 
 3. Now you need to click on the icon of the chrome extension then it will generate a popup
-
-![Screenshot (586)](https://user-images.githubusercontent.com/84044819/161394352-b0803ada-96f8-4663-89fa-d7e5a207cc8b.png)
 
 4. There are 4 sections
     * To-do list
@@ -22,8 +19,6 @@
     * Alarm
     * Block site
 5. To-do list: Here, you can add your Task, and meanwhile, you can edit them after completing your Task; you can remove them from here by clicking the remove button.
-
-![Screenshot (587)](https://user-images.githubusercontent.com/84044819/161395510-42a9045e-5646-4eca-8a23-1a4b1801e34c.png)
 
 
 6. Break Time: Set the Break time according to you, and it will give you a notification before 5 min of the break, and during the break time, everything will be blocked on your chrome.
